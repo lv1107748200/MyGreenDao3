@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item type="id" name="tabbar_frament"/>
+    <item type="id" name="tabbar_viewpager"/>
+    <item type="id" name="tabbar_tabwidget"/>
+
+</resources>
